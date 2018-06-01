@@ -31,7 +31,7 @@ const fetch = async configuration => {
 };
 
  /**
- * [browse description]
+ * Browse data according params from glassdoor api
  * @param  {Object} configuration
  * @return {Array}
  */

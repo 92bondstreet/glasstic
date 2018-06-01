@@ -2,6 +2,9 @@
 
 > index glassdoor into Elasticsearch
 
+![Photo by Andrew Ridley](https://source.unsplash.com/ER6_i8FhQIw/800x600)
+
+
 ## Installation
 
 ```sh

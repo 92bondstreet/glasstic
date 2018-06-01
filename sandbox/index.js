@@ -9,7 +9,7 @@ async function save () {
   try {
     const employers = await glasstic.browse(configuration);
 
-    console.log(employers);
+    await glasstic.bulk(employers, 'employers');
   } catch (e) {
     console.error(e);
   }
